@@ -1,0 +1,30 @@
+Move Pawn Use Case Description
+
+Primary Actor: Player
+
+Stakeholders and interests: 
+
+Player: wants the pawn to move when it is meant to be moved, to the location it is meant to be moved. Wants to be prevented from making an illegal move with the pawn.
+
+Preconditions: It must be the player’s turn. The pawn being moved must belong to the player. The player must have chosen to move the pawn rather than to place a wall.
+
+Postconditions: The pawn being moved is removed from its original position and arrives in the player’s selected position. It ceases to be the players turn. The next participant may take a turn.
+
+Main Success Scenario:
+
+1.	Player chooses to move a pawn rather than to place a wall. [Alt1: Player chooses to place a wall]
+2.	The pawn determines the positions it can be moved to legally and has the board show them to the player.
+3.  The player selects a position to move the pawn to. [Alt2: Player tries to make an illegal movement]
+4.	The pawn is removed from its original square and appears in the selected location.
+5.	The system changes the person whose turn it is from the current player to the next player. [Use case ends]
+
+Alternative flows:
+
+Alt1: Player chooses to place a wall.
+1.	Player proceeds to placing a wall instead. Use case ends.
+Alt2: Player tries to make an illegal movement.
+1.	The system informs the player that the move they are attempting to make is illegal.
+2.	Flow resumes at Main Success Scenario Step 3.
+
+Special requirements: The pawn must have the same appearance the same in both positions.
+

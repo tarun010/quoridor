@@ -1,0 +1,29 @@
+
+(i) Load Saved Game: System restores the game data if it was saved previously, and the players can resume their turns in the game.
+
+(ii) Place Wall: -Walls can be placed anywhere on the board.
+-Walls cannot completely block the destination, and must leave at least one gap so that a path exists for the opponent's pawn to reach the destination.
+-Walls can block only 2 adjacent squares, and cannot be placed diagonally.
+
+(iii) Move Pawn: -The pawn can move to any adjacent square unless it is blocked by a wall or another pawn. Normally, it cannot move diagonally.
+-If blocked by walls, the Player must navigate around the wall.
+-If blocked by an Opponent, the Player can jump over to the square adjacent to the Opponent.
+-If blocked by an Opponent, and if there is a Wall placed behind the Opponent, the Player can move diagonally to navigate around the Opponent. This is the ONLY scenario where diagonal movement is permitted.
+-The Player's Pawn cannot jump over multiple Opponent pawns.     
+      
+(iv) Toggle Colour Vision Deficiency Mode: The player will select a check box to turn colour vision deficiency mode on or off.
+When colour vision deficiency mode is off, the pawns will be yellow, red, blue, and magenta. 
+The board will be a grid of white tiles with black lines between each square, unless a wall has been placed between squares, which will be represented by a brown line.
+When colour deficiency mode is turned on, the pawns will be marked with the symbols of playing cards (clubs, spades, diamonds, and hearts), and the walls will be marked with X’s.
+The grid will remain the same. The change will be shown to the player when they click on the labelled check box. 
+After the player has made a selection, the system will record what state the game is in, and it will remain in that state until the player clicks on the check box to change it again.
+
+(v) Set AI difficulty: Toggling AI difficulty would be necessary whenever setting up a new game, and I believe it would be included in it. 
+Toggling colour vision deficiency mode could be done at any time.
+The player selects a difficulty level for the AI of each of the pawns that the player will not be controlling from the options easy or hard. 
+The system informs the player of the difficulty level selected for each pawn, records the difficulty level of each pawn, records the pawn the level is assigned to, and what game the pawns have the selected settings in.
+
+(vi) Save Game: Players can save the game at any given time. All game data (position of walls, pawns, current player's turn) is stored.
+
+Jacob: (iv) Toggling Colour Vision Deficiency, (v) Setting AI Difficulty.
+Tarun: (i) Load Game, (ii) Place Wall, (iii) Move Pawn, (vi) Save Game.

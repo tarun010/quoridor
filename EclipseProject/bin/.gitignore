@@ -1,0 +1,16 @@
+/.metadata/
+/Block.class
+/Board.class
+/Pawn.class
+/Quoridor.class
+/SetAILevelsWindow$1.class
+/SetAILevelsWindow$2.class
+/SetAILevelsWindow.class
+/Square.class
+/UpdateGame.class
+/Player.class
+/Player$BoardSide.class
+/UpdateGame$BoardSide.class
+/DisplayPanel.class
+/ConfirmButton.class
+/Board$ShowConfirm.class

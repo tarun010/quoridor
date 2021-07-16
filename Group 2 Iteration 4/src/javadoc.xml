@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" doctitle="Quoridor Game" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="14" sourcefiles="src/Block.java,src/Square.java,src/Pawn.java,src/Quoridor.java,src/DisplayPanel.java,src/ConfirmButton.java,src/SetAILevelsWindow.java,src/Board.java,src/UpdateGame.java,src/Player.java" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
