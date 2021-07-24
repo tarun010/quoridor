@@ -6,6 +6,4 @@
 
 
 
-A clone of the [Quoridor](https://en.wikipedia.org/wiki/Quoridor) game that my friends and I created.
-
-Written in Java.
+Java clone of the [Quoridor](https://en.wikipedia.org/wiki/Quoridor) game that my friends and I created.
