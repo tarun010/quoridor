@@ -1,7 +1,7 @@
 # Quoridor
 
 
-[![Quoridor-Gameplay](https://user-images.githubusercontent.com/25506296/126870928-1af1897c-3a04-42e3-a521-261558db7fff.png)](https://youtu.be/AH9ERrlJgVs)
+[![Quoridor-Gameplay](https://user-images.githubusercontent.com/25506296/126878967-4237714d-2f1a-4dc7-b6ae-41f049c6eb9a.gif)](https://youtu.be/AH9ERrlJgVs)
 
 
 
