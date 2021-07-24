@@ -44,7 +44,7 @@ This is a 4 player grid based board game, the objecti¬ve is to move your pawn a
 
 
 ## Setup
-  java -r Quoridor.jar
+    java -r Quoridor.jar
 
 
 
