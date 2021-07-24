@@ -6,4 +6,5 @@
 
 
 
-A Java clone of the [Quoridor](https://en.wikipedia.org/wiki/Quoridor) game that my friends and I created.
+A clone of the [Quoridor](https://en.wikipedia.org/wiki/Quoridor) game that my friends and I created.
+Written in Java
