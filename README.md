@@ -12,6 +12,4 @@
 
 
 
-
-
-[![Quoridor Gameplay](https://img.youtube.com/vi/https://youtu.be/AH9ERrlJgVs/0.jpg)](https://youtu.be/AH9ERrlJgVs "Quoridor Gameplay")
+[![Quoridor Gameplay](https://img.youtube.com/vi/https://youtu.be/AH9ERrlJgVs/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/AH9ERrlJgVs "Quoridor Gameplay")
