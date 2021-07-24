@@ -44,8 +44,16 @@ This is a 4 player grid based board game, the objecti¬ve is to move your pawn a
 
 
 ## Setup
-    java -r Quoridor.jar
+- Open a terminal/command line session.
+- Clone this repository.
 
+        git clone https://github.com/tarun010/quoridor.git
+- Open directory `src`
+ 
+- Run the `Quoridor.jar` file.
+
+        java -r Quoridor.jar
+    
 
 
 ## Play!
