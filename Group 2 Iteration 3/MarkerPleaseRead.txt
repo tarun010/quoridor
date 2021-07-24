@@ -1,2 +1,0 @@
-On the board, there is no way to see who's turn it is yet, but it always starts with the red pawn on the bottom and rotates clockwise.
-To place wall click on the current player's pile then click between any two squares to highlight wall. Click confirm button that appears to make the wall permanent.
