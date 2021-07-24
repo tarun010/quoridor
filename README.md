@@ -35,3 +35,17 @@ This is a 4 player grid based board game, the objecti¬ve is to move your pawn a
 
 
 •	Once the fence is placed it cannot be removed.
+
+
+
+## Requirements
+- [Java Runtime Environment](https://www.java.com/download/ie_manual.jsp)
+
+
+
+## Setup
+  java -r Quoridor.jar
+
+
+
+## Play!
