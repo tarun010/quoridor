@@ -13,7 +13,7 @@ Java clone of the [Quoridor](https://en.wikipedia.org/wiki/Quoridor) game that m
 ## Game Rules
 
 
-This is a 4 player grid based board game, the objecti¬ve is to move your pawn all the way to the opposite direction to win.
+This is a 4 player grid based board game, the objective is to move your pawn all the way to the opposite direction to win.
 
 - On their Turn Every Player has 2 options either to move their Pawn one block in any direction (Forwards, backwards or sideways) or place a block
 - A player will have 5 blocks, the block will prevent someone else to go across the board
