@@ -4,7 +4,7 @@
 [Quoridor](https://en.wikipedia.org/wiki/Quoridor) game implemented in Java.
 
 
-[![Quoridor-Gameplay](https://user-images.githubusercontent.com/25506296/126878967-4237714d-2f1a-4dc7-b6ae-41f049c6eb9a.gif)](https://youtu.be/AH9ERrlJgVs)
+[![PerfectForm-Jacob](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZlYmIwMGZmYmYwNDVjZTczMDVmODJhMmFjZWI3ZGQyZTY4OTk5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2Vn59yArROyFxQOtm1/giphy.gif)](https://youtu.be/AH9ERrlJgVs)
 
 [Click here to watch the project presentation.](https://youtu.be/AH9ERrlJgVs)
 
