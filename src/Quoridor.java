@@ -1,5 +1,5 @@
 /*
- * @author Thu Dinh
+ * @authors Thu Dinh, Tarun Subramanian, Farzad Ahmed, Jacob Keiley, afrideeee, ksvansia
  */
 import java.awt.*;
 import javax.swing.*;
